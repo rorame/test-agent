@@ -1,0 +1,11 @@
+.env
+
+__pycache__/
+*.py[cod]
+.venv/
+
+.uv/
+uv.lock
+
+.DS_Store
+
